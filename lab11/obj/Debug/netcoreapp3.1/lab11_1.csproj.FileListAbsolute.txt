@@ -1,0 +1,15 @@
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\Lab10_3.exe
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.exe
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.deps.json
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.runtimeconfig.json
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.runtimeconfig.dev.json
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.dll
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\lab11_1.pdb
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\Lab10_3.dll
+C:\Users\SAVS\source\repos\lab11\lab11\bin\Debug\netcoreapp3.1\Lab10_3.pdb
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.csprojAssemblyReference.cache
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.AssemblyInfoInputs.cache
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.AssemblyInfo.cs
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.csproj.CopyComplete
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.dll
+C:\Users\SAVS\source\repos\lab11\lab11\obj\Debug\netcoreapp3.1\lab11_1.pdb

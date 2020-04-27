@@ -1,0 +1,11 @@
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.exe
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.deps.json
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.runtimeconfig.json
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.runtimeconfig.dev.json
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.dll
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\bin\Debug\netcoreapp3.1\Lab10_3.pdb
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\obj\Debug\netcoreapp3.1\Lab10_3.csprojAssemblyReference.cache
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\obj\Debug\netcoreapp3.1\Lab10_3.AssemblyInfoInputs.cache
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\obj\Debug\netcoreapp3.1\Lab10_3.AssemblyInfo.cs
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\obj\Debug\netcoreapp3.1\Lab10_3.dll
+C:\Users\SAVS\source\repos\Lab10\Lab10_2\obj\Debug\netcoreapp3.1\Lab10_3.pdb
